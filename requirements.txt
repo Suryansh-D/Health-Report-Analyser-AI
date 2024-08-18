@@ -1,0 +1,8 @@
+streamlit
+crewai # Replace with the actual version of crewai
+crewai-tools # Replace with the actual version of crewai-tools
+pypdf
+python-dotenv
+PyPDF2
+google-generativeai # Replace with the actual version if known
+langchain-google-genai  # Replace with the actual version if known
